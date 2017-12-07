@@ -1,1 +1,169 @@
-/* Los estilos de tu proyecto */
+
+body {
+	background-color: #F7B617;
+	color: #FFF;
+}
+
+#theNav {
+	background-color: #FFF;
+	color: #000;
+	font-weight: 400;
+	height: 6em;
+  margin-bottom: 0;
+  border-color: #FFF;
+}
+
+.header-name {
+	color: #F7B617;
+}
+
+.headerC {
+	color: #000;
+}
+
+#taxi {
+	background-image: url(../assets//images/taxi.jpg);
+	background-size: cover;
+	background-position: center 93%;
+	height: 40em;
+}
+
+#box-1 {
+	width: 26em;
+	height: 25em;
+	background-color: #F7B617;
+	padding: 2em;
+}
+
+#jumboLogo {
+	width: 4em;
+  margin-top: -5px;
+}
+
+.else {
+	line-height: 2em;
+	text-align: center;
+}
+
+#box-1 h3 {
+	line-height: 10px;
+	font-weight: 700;
+}
+
+#boxito-1 {
+	width: 26em;
+	height: 15em;
+	background-color: #F7B617;
+	padding: 2em;
+}
+
+#box-2 {
+	background-color: #F7B617;
+	display: inline-flex;
+}
+
+#phone {
+	margin-bottom: 1em;
+	border: 1px solid #FFF;
+	border-left: none;
+}
+
+#phoneimg {
+	padding: 0.5em;
+}
+
+#insideCar {
+	background-image: url(../assets/images/conduce.jpg);
+	background-size: cover;
+	background-position: center 55%;
+	height: 32em;
+}
+
+#insideCar div {
+	background-color: rgba(0,0,0,0.5);
+	height: 32em;
+	width: 24em;
+	padding-top: 10em;
+}
+
+#insideCar .little {
+	background-color: rgba(0,0,0,0.5);
+	height: 100%;
+	width: 100%;
+	padding: 10em 5em;
+}
+
+#box-3 div {
+	padding-top: 3em;
+}
+
+iframe {
+	width: 100%;
+	padding: 0.5em;
+	border: 1px solid #FFF;
+}
+
+.inputText {
+	background-color: transparent;
+	float: right;
+  width: 90%;
+}
+
+.inputText::-webkit-input-placeholder {
+	color: white;
+}
+
+.inputText::-moz-placeholder {
+	color: white;
+}
+
+.inputText:-ms-input-placeholder {
+	color: white;
+}
+
+.inputText:-moz-placeholder {
+	color: white;
+}
+
+
+footer {
+	background-color: #2B2B2B;
+	padding-top: 1.25em;
+}
+
+.social, .faq-1, .faq-2, .apps {
+	list-style: none;
+}
+
+.social {
+	display: inline-flex;
+}
+
+.social-down {
+	margin-top: 12em;
+}
+
+.apps-down {
+	margin-top: 7em;
+}
+
+.social li {
+	padding: 0.5em;
+}
+
+.social li a {
+	color: #FFF;
+	font-size: 2em;
+}
+
+#footerInfo div ul li p {
+	color: #FFF;
+}
+
+.btn {
+	font-weight: bold;
+}
+
+.textPage {
+	font-size: 1.25em;
+}
